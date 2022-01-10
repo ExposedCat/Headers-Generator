@@ -1,7 +1,7 @@
 # Headers-Generator
 Generating funny headers using news
 
-Based on korrespondent.net news
+Based on korrespondent.net news  
 Generating algorithm - Markov Chains
 
 ## How to run

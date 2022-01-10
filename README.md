@@ -21,5 +21,5 @@ node bot.mjs
 ```
 
 ## Dependencies:
-[Satanic](https://www.npmjs.com/package/satanic)
+[Satanic](https://www.npmjs.com/package/satanic)  
 [Mongoose](https://www.npmjs.com/package/mongoose)
